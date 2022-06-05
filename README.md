@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asingh30020
-- 👀 I’m interested in Android app development
-- 🌱 I’m currently learning DSA and Android development
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning DSA and Web development
 
 - 📫 How to reach me singhabhi30020@gmail.com
 
